@@ -1,0 +1,2 @@
+# ethereum-lottery
+Smart Contract
